@@ -1,6 +1,6 @@
 # volttron-lib-auth
 
-Prototype authentication classes for volttron authentication, authorization and auth service.
+ZMQ Curve Implementation for Authentication and Authorization
 
 ## Prerequisites
 
